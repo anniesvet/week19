@@ -1,0 +1,11 @@
+.container {
+    max-width: 1180px;
+    margin: 0 auto;
+}
+
+.button {
+    width: 70px;
+    height: 70px;
+    border: 1px solid black;
+    background: none;
+}
